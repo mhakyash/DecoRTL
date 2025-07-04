@@ -1,3 +1,3 @@
 # DecoRTL
 
-Codes will be released soon!
+Code release scheduled for early August 2025. Stay tuned!
