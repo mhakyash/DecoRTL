@@ -2,8 +2,6 @@
 
 Official implementation of **DecoRTL**, a run-time decoding framework for RTL (Register Transfer Level) code generation with Large Language Models. This repository provides a modular Python implementation of contrastive decoding with temperature adaptation for generating Verilog hardware description code using vLLM.
 
-**Paper:** [arXiv:2507.02226](https://arxiv.org/abs/2507.02226)
-
 ## Features
 
 - **Contrastive Decoding**: Embedding-based token re-ranking for diverse generation
